@@ -8,6 +8,7 @@
 
 ## Input video
 https://user-images.githubusercontent.com/84311270/170266762-119c5f48-3533-4cde-9dba-f820ee00fe1b.mp4  
-https://user-images.githubusercontent.com/84311270/170266823-b43e8d8e-4c23-4de4-b8d4-2d5004e57a72.mp4  
+
+
 ## Dynamic Animation
 https://user-images.githubusercontent.com/84311270/170266823-b43e8d8e-4c23-4de4-b8d4-2d5004e57a72.mp4
