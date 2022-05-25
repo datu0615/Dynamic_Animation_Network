@@ -1,4 +1,6 @@
-# Construction of Dynamic Image Animation Network for Style Transformation Using GAN, Keypoint and Local Affine
+# Construction of Dynamic Image Animation Network for Style Transformation Using GAN, Keypoint and Local Affine  
+High-quality images and videos are being generated as technologies for deep learning-based image style translation and conversion of static images into dynamic images have developed. However, it takes a lot of time and resources to manually transform images, as well as professional knowledge due to the difficulty of natural image transformation. Therefore, in this paper, we study natural style mixing through a style conversion network using GAN and natural dynamic image generation using the First Order Motion Model network (FOMM).
+
 
 ## Input image  
 ![증명사진 (1)](https://user-images.githubusercontent.com/84311270/170266586-0f1f8f8a-7134-43c3-9afb-343e86745c7f.jpg)  
